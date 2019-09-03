@@ -3,6 +3,7 @@ module.exports = {
     description: '收集整理的airbnd中文规范',
     serviceWorker: false,
     dest:'../../docs',
+    base:'/Airbnd-rules-zh/',
     themeConfig: {
         search: false,
         sidebar: [
