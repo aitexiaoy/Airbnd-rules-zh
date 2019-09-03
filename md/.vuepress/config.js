@@ -2,7 +2,7 @@ module.exports = {
     title: 'airbnb开发规范',
     description: '收集整理的airbnd中文规范',
     serviceWorker: false,
-    dest:'../../docs',
+    dest:'./docs',
     base:'/Airbnd-rules-zh/',
     themeConfig: {
         search: false,
