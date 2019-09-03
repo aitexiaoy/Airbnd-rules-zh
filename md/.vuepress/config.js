@@ -11,25 +11,6 @@ module.exports = {
             '../css.md',
             '../react.md',
             '../es5.md'
-            // {
-            //     title: 'JavaScript ES6',
-            //     children: ['../es6.md']
-            // },
-            // {
-            //     title: 'CSS 和 Sass',
-            //     collapsable: false,
-            //     children: [
-            //         '../css.md'
-            //     ]
-            // },
-            // {
-            //     title: 'React/JSX',
-            //     children: ['../react.md']
-            // },
-            // {
-            //     title: 'JavaScript ES5',
-            //     children: ['../es5.md']
-            // },
         ]
     }
 }
